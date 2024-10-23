@@ -100,5 +100,4 @@ For any questions or suggestions, feel free to reach out:
 - **Email**:
   - drahire371322@kkwagh.edu.in
   - nparsade371322@kkwagh.edu.in
-  - sjdeshmukh371322@kkwagh.edu.in
 - **GitHub**: [Dahire100](https://github.com/Dahire100)
